@@ -1,4 +1,4 @@
-# MSX DC-600
+# MSX TDC-600
 Floppy Disk Controller for MSX nad MSX2 Computers.
 
 Talent TDC-600 clone. PCB redrawn for fit to standard cartridge case.
